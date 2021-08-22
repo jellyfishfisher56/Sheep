@@ -1,0 +1,9 @@
+COMP P0009U
+U X TY ASSEMBLE:
+IN SWF COMP TERMINATE TASK OST DS TQ TD
+UY TR IN JK JS ON JK JG
+ADD EXCEPT
+;int
+int str flt on AllTypes = m5 ;int
+rt sc
+ls -Force
